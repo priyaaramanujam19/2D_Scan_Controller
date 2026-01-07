@@ -1,4 +1,4 @@
-# Project: QD ScanEngine
+# Project: 2D ScanEngine
 ### A 2D Scan Controller Framework for Simulated Stage and Sensor Systems
 ---
 This project implements a **2D Scan Controller** for simulated hardware components that maybe used in any industry.  
