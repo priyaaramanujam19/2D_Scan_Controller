@@ -9,6 +9,7 @@ from functions import move_stage, measure_sensor, stage, sensor
 
 config = load_yaml_file()
 #this is a dummy comment
+#this is dummy comment part 2
 # Function to store x and y points in an array
 def generate_scan_points(x_range, y_range):
     x_values = np.linspace(x_range["start"], x_range["end"], x_range["steps"], dtype = int)
