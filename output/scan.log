@@ -1,0 +1,306 @@
+2026-01-03 17:35:25,568 - INFO - Scan controller started.
+2026-01-03 17:35:25,669 - INFO - Stage moved to (0, 0) on attempt 1
+2026-01-03 17:35:25,669 - INFO - Sensor measured value: 0.7101665407920421
+2026-01-03 17:35:25,669 - INFO - Points (0, 0) - Raw: 0.7101665407920421, Filtered: 0.71
+2026-01-03 17:35:25,770 - INFO - Stage moved to (5, 0) on attempt 1
+2026-01-03 17:35:25,770 - INFO - Sensor measured value: 0.6842614023514839
+2026-01-03 17:35:25,770 - INFO - Points (5, 0) - Raw: 0.6842614023514839, Filtered: 0.7
+2026-01-03 17:35:25,871 - INFO - Stage moved to (11, 0) on attempt 1
+2026-01-03 17:35:25,871 - INFO - Sensor measured value: 1.1288289368259499
+2026-01-03 17:35:25,871 - INFO - Points (11, 0) - Raw: 1.1288289368259499, Filtered: 0.84
+2026-01-03 17:35:25,971 - INFO - Stage moved to (16, 0) on attempt 1
+2026-01-03 17:35:25,972 - INFO - Sensor measured value: 1.1573270240674038
+2026-01-03 17:35:25,972 - INFO - Points (16, 0) - Raw: 1.1573270240674038, Filtered: 0.92
+2026-01-03 17:35:26,072 - INFO - Stage moved to (22, 0) on attempt 1
+2026-01-03 17:35:26,073 - INFO - Sensor measured value: 0.8937026567947756
+2026-01-03 17:35:26,073 - INFO - Points (22, 0) - Raw: 0.8937026567947756, Filtered: 0.91
+2026-01-03 17:35:26,173 - INFO - Stage moved to (27, 0) on attempt 1
+2026-01-03 17:35:26,174 - INFO - Sensor measured value: 1.0976093409245373
+2026-01-03 17:35:26,174 - INFO - Points (27, 0) - Raw: 1.0976093409245373, Filtered: 0.95
+2026-01-03 17:35:26,274 - INFO - Stage moved to (33, 0) on attempt 1
+2026-01-03 17:35:26,274 - INFO - Sensor measured value: 1.1723794371873264
+2026-01-03 17:35:26,275 - INFO - Points (33, 0) - Raw: 1.1723794371873264, Filtered: 1.02
+2026-01-03 17:35:26,375 - INFO - Stage moved to (38, 0) on attempt 1
+2026-01-03 17:35:26,376 - INFO - Sensor measured value: 1.3011517664781311
+2026-01-03 17:35:26,376 - INFO - Points (38, 0) - Raw: 1.3011517664781311, Filtered: 1.13
+2026-01-03 17:35:26,476 - INFO - Stage moved to (44, 0) on attempt 1
+2026-01-03 17:35:26,476 - INFO - Sensor measured value: 0.9585487564197306
+2026-01-03 17:35:26,477 - INFO - Points (44, 0) - Raw: 0.9585487564197306, Filtered: 1.1
+2026-01-03 17:35:26,577 - INFO - Stage moved to (50, 0) on attempt 1
+2026-01-03 17:35:26,577 - INFO - Sensor measured value: 0.7544642083778322
+2026-01-03 17:35:26,578 - INFO - Points (50, 0) - Raw: 0.7544642083778322, Filtered: 1.03
+2026-01-03 17:35:26,678 - INFO - Stage moved to (50, 5) on attempt 1
+2026-01-03 17:35:26,678 - INFO - Sensor measured value: 0.9093341309195
+2026-01-03 17:35:26,678 - INFO - Points (50, 5) - Raw: 0.9093341309195, Filtered: 1.03
+2026-01-03 17:35:26,779 - INFO - Stage moved to (44, 5) on attempt 1
+2026-01-03 17:35:26,779 - INFO - Sensor measured value: 0.7409880242284663
+2026-01-03 17:35:26,779 - INFO - Points (44, 5) - Raw: 0.7409880242284663, Filtered: 0.97
+2026-01-03 17:35:26,880 - INFO - Stage moved to (38, 5) on attempt 1
+2026-01-03 17:35:26,880 - INFO - Sensor measured value: 0.8123197217792013
+2026-01-03 17:35:26,880 - INFO - Points (38, 5) - Raw: 0.8123197217792013, Filtered: 0.91
+2026-01-03 17:35:26,981 - INFO - Stage moved to (33, 5) on attempt 1
+2026-01-03 17:35:26,981 - INFO - Sensor measured value: 1.2574202698573314
+2026-01-03 17:35:26,982 - INFO - Points (33, 5) - Raw: 1.2574202698573314, Filtered: 0.91
+2026-01-03 17:35:27,082 - INFO - Stage moved to (27, 5) on attempt 1
+2026-01-03 17:35:27,082 - INFO - Sensor measured value: 1.1633002153879988
+2026-01-03 17:35:27,083 - INFO - Points (27, 5) - Raw: 1.1633002153879988, Filtered: 0.94
+2026-01-03 17:35:27,183 - INFO - Stage moved to (22, 5) on attempt 1
+2026-01-03 17:35:27,184 - INFO - Sensor measured value: 0.8969278588686649
+2026-01-03 17:35:27,184 - INFO - Points (22, 5) - Raw: 0.8969278588686649, Filtered: 0.96
+2026-01-03 17:35:27,284 - INFO - Stage moved to (16, 5) on attempt 1
+2026-01-03 17:35:27,284 - INFO - Sensor measured value: 1.3005961174780656
+2026-01-03 17:35:27,284 - INFO - Points (16, 5) - Raw: 1.3005961174780656, Filtered: 1.03
+2026-01-03 17:35:27,385 - INFO - Stage moved to (11, 5) on attempt 1
+2026-01-03 17:35:27,386 - INFO - Sensor measured value: 1.0033777066057443
+2026-01-03 17:35:27,386 - INFO - Points (11, 5) - Raw: 1.0033777066057443, Filtered: 1.07
+2026-01-03 17:35:27,487 - INFO - Stage moved to (5, 5) on attempt 1
+2026-01-03 17:35:27,487 - INFO - Sensor measured value: 1.0240735314962297
+2026-01-03 17:35:27,487 - INFO - Points (5, 5) - Raw: 1.0240735314962297, Filtered: 1.11
+2026-01-03 17:35:27,587 - INFO - Stage moved to (0, 5) on attempt 1
+2026-01-03 17:35:27,588 - INFO - Sensor measured value: 1.0907571343974025
+2026-01-03 17:35:27,588 - INFO - Points (0, 5) - Raw: 1.0907571343974025, Filtered: 1.08
+2026-01-03 17:35:27,688 - INFO - Stage moved to (0, 11) on attempt 1
+2026-01-03 17:35:27,688 - INFO - Sensor measured value: 1.083560601127152
+2026-01-03 17:35:27,688 - INFO - Points (0, 11) - Raw: 1.083560601127152, Filtered: 1.07
+2026-01-03 17:35:27,789 - WARNING - Move failed at attempt 1: Stage timeout moving to (5.00,11.00)
+2026-01-03 17:35:28,890 - INFO - Stage moved to (5, 11) on attempt 2
+2026-01-03 17:35:28,890 - INFO - Sensor measured value: 0.6478952631096773
+2026-01-03 17:35:28,890 - INFO - Points (5, 11) - Raw: 0.6478952631096773, Filtered: 1.03
+2026-01-03 17:35:28,991 - INFO - Stage moved to (11, 11) on attempt 1
+2026-01-03 17:35:28,991 - INFO - Sensor measured value: 0.9593438933390808
+2026-01-03 17:35:28,992 - INFO - Points (11, 11) - Raw: 0.9593438933390808, Filtered: 0.97
+2026-01-03 17:35:29,092 - INFO - Stage moved to (16, 11) on attempt 1
+2026-01-03 17:35:29,092 - INFO - Sensor measured value: 1.203820948202244
+2026-01-03 17:35:29,092 - INFO - Points (16, 11) - Raw: 1.203820948202244, Filtered: 1.0
+2026-01-03 17:35:29,193 - INFO - Stage moved to (22, 11) on attempt 1
+2026-01-03 17:35:29,193 - INFO - Sensor measured value: 1.042063568005755
+2026-01-03 17:35:29,193 - INFO - Points (22, 11) - Raw: 1.042063568005755, Filtered: 1.0
+2026-01-03 17:35:29,294 - INFO - Stage moved to (27, 11) on attempt 1
+2026-01-03 17:35:29,294 - INFO - Sensor measured value: 1.2171523356591318
+2026-01-03 17:35:29,294 - INFO - Points (27, 11) - Raw: 1.2171523356591318, Filtered: 1.03
+2026-01-03 17:35:29,394 - INFO - Stage moved to (33, 11) on attempt 1
+2026-01-03 17:35:29,395 - INFO - Sensor measured value: 1.3862623840169197
+2026-01-03 17:35:29,395 - INFO - Points (33, 11) - Raw: 1.3862623840169197, Filtered: 1.08
+2026-01-03 17:35:29,495 - INFO - Stage moved to (38, 11) on attempt 1
+2026-01-03 17:35:29,496 - INFO - Sensor measured value: 0.9783381075527126
+2026-01-03 17:35:29,496 - INFO - Points (38, 11) - Raw: 0.9783381075527126, Filtered: 1.13
+2026-01-03 17:35:29,596 - INFO - Stage moved to (44, 11) on attempt 1
+2026-01-03 17:35:29,596 - INFO - Sensor measured value: 0.9380234725375085
+2026-01-03 17:35:29,596 - INFO - Points (44, 11) - Raw: 0.9380234725375085, Filtered: 1.13
+2026-01-03 17:35:29,697 - INFO - Stage moved to (50, 11) on attempt 1
+2026-01-03 17:35:29,697 - INFO - Sensor measured value: 0.8605407059762918
+2026-01-03 17:35:29,697 - INFO - Points (50, 11) - Raw: 0.8605407059762918, Filtered: 1.07
+2026-01-03 17:35:29,798 - INFO - Stage moved to (50, 16) on attempt 1
+2026-01-03 17:35:29,798 - INFO - Sensor measured value: 1.0519398312112227
+2026-01-03 17:35:29,798 - INFO - Points (50, 16) - Raw: 1.0519398312112227, Filtered: 1.07
+2026-01-03 17:35:29,899 - INFO - Stage moved to (44, 16) on attempt 1
+2026-01-03 17:35:29,899 - INFO - Sensor measured value: 1.2142924015254544
+2026-01-03 17:35:29,899 - INFO - Points (44, 16) - Raw: 1.2142924015254544, Filtered: 1.07
+2026-01-03 17:35:29,999 - INFO - Stage moved to (38, 16) on attempt 1
+2026-01-03 17:35:30,000 - INFO - Sensor measured value: 0.7983079913486567
+2026-01-03 17:35:30,000 - INFO - Points (38, 16) - Raw: 0.7983079913486567, Filtered: 0.97
+2026-01-03 17:35:30,101 - INFO - Stage moved to (33, 16) on attempt 1
+2026-01-03 17:35:30,101 - INFO - Sensor measured value: 1.309498424584417
+2026-01-03 17:35:30,101 - INFO - Points (33, 16) - Raw: 1.309498424584417, Filtered: 1.03
+2026-01-03 17:35:30,201 - INFO - Stage moved to (27, 16) on attempt 1
+2026-01-03 17:35:30,202 - INFO - Sensor measured value: 0.841774306352137
+2026-01-03 17:35:30,202 - INFO - Points (27, 16) - Raw: 0.841774306352137, Filtered: 1.01
+2026-01-03 17:35:30,302 - INFO - Stage moved to (22, 16) on attempt 1
+2026-01-03 17:35:30,302 - INFO - Sensor measured value: 1.2050136460517429
+2026-01-03 17:35:30,303 - INFO - Points (22, 16) - Raw: 1.2050136460517429, Filtered: 1.07
+2026-01-03 17:35:30,403 - INFO - Stage moved to (16, 16) on attempt 1
+2026-01-03 17:35:30,403 - INFO - Sensor measured value: 0.8743308672045979
+2026-01-03 17:35:30,403 - INFO - Points (16, 16) - Raw: 0.8743308672045979, Filtered: 1.04
+2026-01-03 17:35:30,504 - INFO - Stage moved to (11, 16) on attempt 1
+2026-01-03 17:35:30,504 - INFO - Sensor measured value: 0.8275962701081976
+2026-01-03 17:35:30,504 - INFO - Points (11, 16) - Raw: 0.8275962701081976, Filtered: 0.98
+2026-01-03 17:35:30,605 - INFO - Stage moved to (5, 16) on attempt 1
+2026-01-03 17:35:30,605 - INFO - Sensor measured value: 1.042006861000349
+2026-01-03 17:35:30,605 - INFO - Points (5, 16) - Raw: 1.042006861000349, Filtered: 1.02
+2026-01-03 17:35:30,705 - INFO - Stage moved to (0, 16) on attempt 1
+2026-01-03 17:35:30,706 - INFO - Sensor measured value: 1.1121054513757118
+2026-01-03 17:35:30,706 - INFO - Points (0, 16) - Raw: 1.1121054513757118, Filtered: 0.98
+2026-01-03 17:35:30,806 - INFO - Stage moved to (0, 22) on attempt 1
+2026-01-03 17:35:30,807 - INFO - Sensor measured value: 0.7858215483374833
+2026-01-03 17:35:30,807 - INFO - Points (0, 22) - Raw: 0.7858215483374833, Filtered: 0.97
+2026-01-03 17:35:30,908 - INFO - Stage moved to (5, 22) on attempt 1
+2026-01-03 17:35:30,908 - INFO - Sensor measured value: 1.052126116333364
+2026-01-03 17:35:30,908 - INFO - Points (5, 22) - Raw: 1.052126116333364, Filtered: 0.95
+2026-01-03 17:35:31,008 - INFO - Stage moved to (11, 22) on attempt 1
+2026-01-03 17:35:31,009 - INFO - Sensor measured value: 1.147846543108598
+2026-01-03 17:35:31,009 - INFO - Points (11, 22) - Raw: 1.147846543108598, Filtered: 0.99
+2026-01-03 17:35:31,109 - INFO - Stage moved to (16, 22) on attempt 1
+2026-01-03 17:35:31,109 - INFO - Sensor measured value: 1.16197907119635
+2026-01-03 17:35:31,110 - INFO - Points (16, 22) - Raw: 1.16197907119635, Filtered: 1.05
+2026-01-03 17:35:31,210 - INFO - Stage moved to (22, 22) on attempt 1
+2026-01-03 17:35:31,210 - INFO - Sensor measured value: 1.2475469826189909
+2026-01-03 17:35:31,210 - INFO - Points (22, 22) - Raw: 1.2475469826189909, Filtered: 1.08
+2026-01-03 17:35:31,311 - INFO - Stage moved to (27, 22) on attempt 1
+2026-01-03 17:35:31,311 - INFO - Sensor measured value: 0.8602041938120562
+2026-01-03 17:35:31,311 - INFO - Points (27, 22) - Raw: 0.8602041938120562, Filtered: 1.04
+2026-01-03 17:35:31,412 - INFO - Stage moved to (33, 22) on attempt 1
+2026-01-03 17:35:31,412 - INFO - Sensor measured value: 0.7361406958016885
+2026-01-03 17:35:31,412 - INFO - Points (33, 22) - Raw: 0.7361406958016885, Filtered: 1.03
+2026-01-03 17:35:31,513 - INFO - Stage moved to (38, 22) on attempt 1
+2026-01-03 17:35:31,513 - INFO - Sensor measured value: 1.1925133915801016
+2026-01-03 17:35:31,514 - INFO - Points (38, 22) - Raw: 1.1925133915801016, Filtered: 1.06
+2026-01-03 17:35:31,614 - INFO - Stage moved to (44, 22) on attempt 1
+2026-01-03 17:35:31,614 - INFO - Sensor measured value: 1.1337688489751572
+2026-01-03 17:35:31,614 - INFO - Points (44, 22) - Raw: 1.1337688489751572, Filtered: 1.06
+2026-01-03 17:35:31,715 - INFO - Stage moved to (50, 22) on attempt 1
+2026-01-03 17:35:31,715 - INFO - Sensor measured value: 1.1164418204575346
+2026-01-03 17:35:31,715 - INFO - Points (50, 22) - Raw: 1.1164418204575346, Filtered: 1.05
+2026-01-03 17:35:31,816 - INFO - Stage moved to (50, 27) on attempt 1
+2026-01-03 17:35:31,816 - INFO - Sensor measured value: 1.1018156903158938
+2026-01-03 17:35:31,816 - INFO - Points (50, 27) - Raw: 1.1018156903158938, Filtered: 1.02
+2026-01-03 17:35:31,917 - INFO - Stage moved to (44, 27) on attempt 1
+2026-01-03 17:35:31,917 - INFO - Sensor measured value: 0.9108029812517252
+2026-01-03 17:35:31,917 - INFO - Points (44, 27) - Raw: 0.9108029812517252, Filtered: 1.03
+2026-01-03 17:35:32,017 - INFO - Stage moved to (38, 27) on attempt 1
+2026-01-03 17:35:32,018 - INFO - Sensor measured value: 0.988640771045705
+2026-01-03 17:35:32,018 - INFO - Points (38, 27) - Raw: 0.988640771045705, Filtered: 1.07
+2026-01-03 17:35:32,118 - INFO - Stage moved to (33, 27) on attempt 1
+2026-01-03 17:35:32,118 - INFO - Sensor measured value: 0.804607406007847
+2026-01-03 17:35:32,118 - INFO - Points (33, 27) - Raw: 0.804607406007847, Filtered: 1.01
+2026-01-03 17:35:32,219 - INFO - Stage moved to (27, 27) on attempt 1
+2026-01-03 17:35:32,219 - INFO - Sensor measured value: 1.1057542607379098
+2026-01-03 17:35:32,219 - INFO - Points (27, 27) - Raw: 1.1057542607379098, Filtered: 1.0
+2026-01-03 17:35:32,320 - INFO - Stage moved to (22, 27) on attempt 1
+2026-01-03 17:35:32,320 - INFO - Sensor measured value: 0.9833126235062914
+2026-01-03 17:35:32,320 - INFO - Points (22, 27) - Raw: 0.9833126235062914, Filtered: 0.98
+2026-01-03 17:35:32,421 - INFO - Stage moved to (16, 27) on attempt 1
+2026-01-03 17:35:32,421 - INFO - Sensor measured value: 1.3726648186583157
+2026-01-03 17:35:32,422 - INFO - Points (16, 27) - Raw: 1.3726648186583157, Filtered: 1.03
+2026-01-03 17:35:32,522 - INFO - Stage moved to (11, 27) on attempt 1
+2026-01-03 17:35:32,522 - INFO - Sensor measured value: 1.2086844741619955
+2026-01-03 17:35:32,523 - INFO - Points (11, 27) - Raw: 1.2086844741619955, Filtered: 1.08
+2026-01-03 17:35:32,623 - INFO - Stage moved to (5, 27) on attempt 1
+2026-01-03 17:35:32,623 - INFO - Sensor measured value: 0.9876730822599521
+2026-01-03 17:35:32,624 - INFO - Points (5, 27) - Raw: 0.9876730822599521, Filtered: 1.08
+2026-01-03 17:35:32,724 - INFO - Stage moved to (0, 27) on attempt 1
+2026-01-03 17:35:32,725 - INFO - Sensor measured value: 1.018725418213568
+2026-01-03 17:35:32,725 - INFO - Points (0, 27) - Raw: 1.018725418213568, Filtered: 1.11
+2026-01-03 17:35:32,825 - INFO - Stage moved to (0, 33) on attempt 1
+2026-01-03 17:35:32,825 - INFO - Sensor measured value: 0.8128658512327783
+2026-01-03 17:35:32,826 - INFO - Points (0, 33) - Raw: 0.8128658512327783, Filtered: 1.06
+2026-01-03 17:35:32,926 - INFO - Stage moved to (5, 33) on attempt 1
+2026-01-03 17:35:32,926 - INFO - Sensor measured value: 0.9789281803252172
+2026-01-03 17:35:32,927 - INFO - Points (5, 33) - Raw: 0.9789281803252172, Filtered: 1.06
+2026-01-03 17:35:33,027 - INFO - Stage moved to (11, 33) on attempt 1
+2026-01-03 17:35:33,027 - INFO - Sensor measured value: 1.0855662132736217
+2026-01-03 17:35:33,027 - INFO - Points (11, 33) - Raw: 1.0855662132736217, Filtered: 1.02
+2026-01-03 17:35:33,128 - INFO - Stage moved to (16, 33) on attempt 1
+2026-01-03 17:35:33,128 - INFO - Sensor measured value: 0.8039726651037784
+2026-01-03 17:35:33,128 - INFO - Points (16, 33) - Raw: 0.8039726651037784, Filtered: 0.95
+2026-01-03 17:35:33,229 - INFO - Stage moved to (22, 33) on attempt 1
+2026-01-03 17:35:33,229 - INFO - Sensor measured value: 0.8657879692507808
+2026-01-03 17:35:33,229 - INFO - Points (22, 33) - Raw: 0.8657879692507808, Filtered: 0.93
+2026-01-03 17:35:33,329 - INFO - Stage moved to (27, 33) on attempt 1
+2026-01-03 17:35:33,330 - INFO - Sensor measured value: 1.4768500052251543
+2026-01-03 17:35:33,330 - INFO - Points (27, 33) - Raw: 1.4768500052251543, Filtered: 1.0
+2026-01-03 17:35:33,431 - INFO - Stage moved to (33, 33) on attempt 1
+2026-01-03 17:35:33,431 - INFO - Sensor measured value: 1.4502325688919293
+2026-01-03 17:35:33,431 - INFO - Points (33, 33) - Raw: 1.4502325688919293, Filtered: 1.11
+2026-01-03 17:35:33,532 - INFO - Stage moved to (38, 33) on attempt 1
+2026-01-03 17:35:33,532 - INFO - Sensor measured value: 1.1277241597815832
+2026-01-03 17:35:33,532 - INFO - Points (38, 33) - Raw: 1.1277241597815832, Filtered: 1.14
+2026-01-03 17:35:33,633 - INFO - Stage moved to (44, 33) on attempt 1
+2026-01-03 17:35:33,633 - INFO - Sensor measured value: 1.075564084120783
+2026-01-03 17:35:33,633 - INFO - Points (44, 33) - Raw: 1.075564084120783, Filtered: 1.13
+2026-01-03 17:35:33,734 - INFO - Stage moved to (50, 33) on attempt 1
+2026-01-03 17:35:33,735 - INFO - Sensor measured value: 1.1535614917245849
+2026-01-03 17:35:33,735 - INFO - Points (50, 33) - Raw: 1.1535614917245849, Filtered: 1.19
+2026-01-03 17:35:33,835 - INFO - Stage moved to (50, 38) on attempt 1
+2026-01-03 17:35:33,836 - INFO - Sensor measured value: 0.6747300398759762
+2026-01-03 17:35:33,836 - INFO - Points (50, 38) - Raw: 0.6747300398759762, Filtered: 1.16
+2026-01-03 17:35:33,936 - INFO - Stage moved to (44, 38) on attempt 1
+2026-01-03 17:35:33,936 - INFO - Sensor measured value: 1.0956766056109397
+2026-01-03 17:35:33,937 - INFO - Points (44, 38) - Raw: 1.0956766056109397, Filtered: 1.1
+2026-01-03 17:35:34,037 - INFO - Stage moved to (38, 38) on attempt 1
+2026-01-03 17:35:34,037 - INFO - Sensor measured value: 1.1090075998130047
+2026-01-03 17:35:34,038 - INFO - Points (38, 38) - Raw: 1.1090075998130047, Filtered: 1.04
+2026-01-03 17:35:34,138 - INFO - Stage moved to (33, 38) on attempt 1
+2026-01-03 17:35:34,139 - INFO - Sensor measured value: 1.0138698280405847
+2026-01-03 17:35:34,139 - INFO - Points (33, 38) - Raw: 1.0138698280405847, Filtered: 1.02
+2026-01-03 17:35:34,239 - INFO - Stage moved to (27, 38) on attempt 1
+2026-01-03 17:35:34,240 - INFO - Sensor measured value: 0.8954034018431992
+2026-01-03 17:35:34,240 - INFO - Points (27, 38) - Raw: 0.8954034018431992, Filtered: 0.99
+2026-01-03 17:35:34,341 - INFO - Stage moved to (22, 38) on attempt 1
+2026-01-03 17:35:34,341 - INFO - Sensor measured value: 1.1030062236145104
+2026-01-03 17:35:34,341 - INFO - Points (22, 38) - Raw: 1.1030062236145104, Filtered: 0.98
+2026-01-03 17:35:34,442 - INFO - Stage moved to (16, 38) on attempt 1
+2026-01-03 17:35:34,442 - INFO - Sensor measured value: 0.9733424386194861
+2026-01-03 17:35:34,442 - INFO - Points (16, 38) - Raw: 0.9733424386194861, Filtered: 1.03
+2026-01-03 17:35:34,543 - INFO - Stage moved to (11, 38) on attempt 1
+2026-01-03 17:35:34,543 - INFO - Sensor measured value: 0.8030525220133564
+2026-01-03 17:35:34,543 - INFO - Points (11, 38) - Raw: 0.8030525220133564, Filtered: 0.98
+2026-01-03 17:35:34,644 - INFO - Stage moved to (5, 38) on attempt 1
+2026-01-03 17:35:34,644 - INFO - Sensor measured value: 1.1388155280713783
+2026-01-03 17:35:34,644 - INFO - Points (5, 38) - Raw: 1.1388155280713783, Filtered: 0.99
+2026-01-03 17:35:34,745 - INFO - Stage moved to (0, 38) on attempt 1
+2026-01-03 17:35:34,745 - INFO - Sensor measured value: 1.1123603131162771
+2026-01-03 17:35:34,745 - INFO - Points (0, 38) - Raw: 1.1123603131162771, Filtered: 1.0
+2026-01-03 17:35:34,846 - INFO - Stage moved to (0, 44) on attempt 1
+2026-01-03 17:35:34,846 - INFO - Sensor measured value: 1.5759651989968095
+2026-01-03 17:35:34,846 - INFO - Points (0, 44) - Raw: 1.5759651989968095, Filtered: 1.12
+2026-01-03 17:35:34,947 - INFO - Stage moved to (5, 44) on attempt 1
+2026-01-03 17:35:34,947 - INFO - Sensor measured value: 0.8243887866234578
+2026-01-03 17:35:34,947 - INFO - Points (5, 44) - Raw: 0.8243887866234578, Filtered: 1.07
+2026-01-03 17:35:35,048 - INFO - Stage moved to (11, 44) on attempt 1
+2026-01-03 17:35:35,048 - INFO - Sensor measured value: 1.1378904491374142
+2026-01-03 17:35:35,048 - INFO - Points (11, 44) - Raw: 1.1378904491374142, Filtered: 1.1
+2026-01-03 17:35:35,149 - INFO - Stage moved to (16, 44) on attempt 1
+2026-01-03 17:35:35,149 - INFO - Sensor measured value: 0.7387733446141908
+2026-01-03 17:35:35,149 - INFO - Points (16, 44) - Raw: 0.7387733446141908, Filtered: 1.09
+2026-01-03 17:35:35,250 - INFO - Stage moved to (22, 44) on attempt 1
+2026-01-03 17:35:35,250 - INFO - Sensor measured value: 0.9157689314640658
+2026-01-03 17:35:35,250 - INFO - Points (22, 44) - Raw: 0.9157689314640658, Filtered: 1.05
+2026-01-03 17:35:35,351 - WARNING - Move failed at attempt 1: Stage timeout moving to (27.00,44.00)
+2026-01-03 17:35:36,452 - INFO - Stage moved to (27, 44) on attempt 2
+2026-01-03 17:35:36,452 - INFO - Sensor measured value: 1.0957817610876146
+2026-01-03 17:35:36,452 - INFO - Points (27, 44) - Raw: 1.0957817610876146, Filtered: 1.05
+2026-01-03 17:35:36,553 - INFO - Stage moved to (33, 44) on attempt 1
+2026-01-03 17:35:36,553 - INFO - Sensor measured value: 0.6548723528617004
+2026-01-03 17:35:36,553 - INFO - Points (33, 44) - Raw: 0.6548723528617004, Filtered: 0.89
+2026-01-03 17:35:36,653 - INFO - Stage moved to (38, 44) on attempt 1
+2026-01-03 17:35:36,654 - INFO - Sensor measured value: 1.2504098645458488
+2026-01-03 17:35:36,654 - INFO - Points (38, 44) - Raw: 1.2504098645458488, Filtered: 0.97
+2026-01-03 17:35:36,754 - INFO - Stage moved to (44, 44) on attempt 1
+2026-01-03 17:35:36,754 - INFO - Sensor measured value: 1.0868719998261835
+2026-01-03 17:35:36,754 - INFO - Points (44, 44) - Raw: 1.0868719998261835, Filtered: 0.96
+2026-01-03 17:35:36,855 - INFO - Stage moved to (50, 44) on attempt 1
+2026-01-03 17:35:36,855 - INFO - Sensor measured value: 1.0797430487018072
+2026-01-03 17:35:36,855 - INFO - Points (50, 44) - Raw: 1.0797430487018072, Filtered: 1.01
+2026-01-03 17:35:36,956 - INFO - Stage moved to (50, 50) on attempt 1
+2026-01-03 17:35:36,956 - INFO - Sensor measured value: 1.1309904370269692
+2026-01-03 17:35:36,956 - INFO - Points (50, 50) - Raw: 1.1309904370269692, Filtered: 1.05
+2026-01-03 17:35:37,057 - INFO - Stage moved to (44, 50) on attempt 1
+2026-01-03 17:35:37,057 - INFO - Sensor measured value: 1.045499745107593
+2026-01-03 17:35:37,057 - INFO - Points (44, 50) - Raw: 1.045499745107593, Filtered: 1.04
+2026-01-03 17:35:37,158 - INFO - Stage moved to (38, 50) on attempt 1
+2026-01-03 17:35:37,158 - INFO - Sensor measured value: 1.3622239097635032
+2026-01-03 17:35:37,158 - INFO - Points (38, 50) - Raw: 1.3622239097635032, Filtered: 1.16
+2026-01-03 17:35:37,259 - INFO - Stage moved to (33, 50) on attempt 1
+2026-01-03 17:35:37,259 - INFO - Sensor measured value: 1.3799804973525263
+2026-01-03 17:35:37,259 - INFO - Points (33, 50) - Raw: 1.3799804973525263, Filtered: 1.18
+2026-01-03 17:35:37,360 - INFO - Stage moved to (27, 50) on attempt 1
+2026-01-03 17:35:37,361 - INFO - Sensor measured value: 1.1400141631745426
+2026-01-03 17:35:37,361 - INFO - Points (27, 50) - Raw: 1.1400141631745426, Filtered: 1.19
+2026-01-03 17:35:37,462 - INFO - Stage moved to (22, 50) on attempt 1
+2026-01-03 17:35:37,462 - INFO - Sensor measured value: 1.070189014166034
+2026-01-03 17:35:37,462 - INFO - Points (22, 50) - Raw: 1.070189014166034, Filtered: 1.19
+2026-01-03 17:35:37,563 - INFO - Stage moved to (16, 50) on attempt 1
+2026-01-03 17:35:37,563 - INFO - Sensor measured value: 1.0550776455053488
+2026-01-03 17:35:37,563 - INFO - Points (16, 50) - Raw: 1.0550776455053488, Filtered: 1.18
+2026-01-03 17:35:37,664 - INFO - Stage moved to (11, 50) on attempt 1
+2026-01-03 17:35:37,664 - INFO - Sensor measured value: 0.7852869581558902
+2026-01-03 17:35:37,664 - INFO - Points (11, 50) - Raw: 0.7852869581558902, Filtered: 1.13
+2026-01-03 17:35:37,765 - INFO - Stage moved to (5, 50) on attempt 1
+2026-01-03 17:35:37,765 - INFO - Sensor measured value: 0.9277001546521207
+2026-01-03 17:35:37,766 - INFO - Points (5, 50) - Raw: 0.9277001546521207, Filtered: 1.06
+2026-01-03 17:35:37,866 - INFO - Stage moved to (0, 50) on attempt 1
+2026-01-03 17:35:37,866 - INFO - Sensor measured value: 1.1318215763892918
+2026-01-03 17:35:37,866 - INFO - Points (0, 50) - Raw: 1.1318215763892918, Filtered: 1.02
+2026-01-03 17:35:37,867 - INFO - Detected peak value is 1.19 at (50 and 33)
+2026-01-03 17:35:37,868 - INFO - Scan data saved to output/scan_data.csv
+2026-01-03 17:35:37,868 - INFO - Peak value written to output/scan_data.csv
