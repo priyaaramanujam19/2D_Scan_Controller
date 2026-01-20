@@ -1,7 +1,7 @@
 import random, time
 
 class SimStage:
-    def __init__(self, move_time=0.1, fail_rate=0.03):
+    def __init__(self, move_time=0.1, fail_rate=0.1):
         self.move_time = move_time
         self.fail_rate = fail_rate
 
@@ -14,7 +14,7 @@ class SimStage:
 
 
 class SimSensor:
-    def __init__(self, base_signal=1.0, noise_level=0.2, fail_rate=0.02):
+    def __init__(self, base_signal=1.0, noise_level=0.2, fail_rate=0.1):
         self.base = base_signal
         self.noise = noise_level
         self.fail_rate = fail_rate

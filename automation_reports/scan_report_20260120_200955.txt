@@ -1,0 +1,6 @@
+Scan Test Report
+----------------
+Log file: archived_logs/scan_20260120_200955.log
+Errors: 0
+Warnings: 14
+Generated on: Tue Jan 20 20:09:55 CET 2026
